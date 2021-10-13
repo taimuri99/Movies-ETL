@@ -14,6 +14,7 @@ links_small.csv
 links.csv
 ratings.csv
 ratings_small.csv
+config.py
 
 
 # Distribution / packaging
