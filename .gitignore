@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+#Files
+.DS_Store
+credits.csv
+keywords.csv
+links_small.csv
+links.csv
+ratings.csv
+ratings_small.csv
+
+
 # Distribution / packaging
 .Python
 build/
