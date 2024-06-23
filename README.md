@@ -1,5 +1,5 @@
 # Movies-ETL
-Using Jupyter Notebook and SQL queries in PostGres, we extracted, transformed and loaded movie data into a database.
+Module 8: Using Jupyter Notebook and SQL queries in PostGres, we extracted, transformed and loaded movie data into a database.
 
 ## Deliverable 1
 An ETL function is written to read in the three data files.
